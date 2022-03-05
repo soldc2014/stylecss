@@ -1,0 +1,42 @@
+/*Your CSS code goes below this line*/
+body { color: white; 
+  background-color: red;
+
+  letter-spacing: 5px;
+  
+  text-transform: uppercase;
+
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  margin-left: 120px;}
+
+
+button { color: white; 
+
+  font-size: 14px;
+  
+  width: 155px; height: 45px;
+
+letter-spacing: 2px;
+  
+  margin-top: 20px;
+  
+  border-color: transparent;
+  
+  border-radius: 5px;
+ 
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  font-weight: bolder;
+  
+  text-transform: uppercase;} 
+  
+  .one {background-color: rgb(84, 230, 84);
+    margin-left: 20px;}
+
+
+   .two {background-color: orange;}
+    
+      
+
+  .three {background-color: rgb(170, 91, 170);}
